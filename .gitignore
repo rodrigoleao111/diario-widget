@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# dados pessoais e estado local
+diario.db
+diario.db-*
+diario.log
+widget.log
+widget.json
+diario/config_local.py
+.claude/settings.local.json
+widget_preview.json
